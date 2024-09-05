@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XuK5oA4R+zqjVL70DMfHJvpjDzcGA0phGNs1OM4Fs0U=",
+  "Source": "WebPratik",
+  "BasePath": "_content/WebPratik",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebPratik/wwwroot",
+      "Source": "WebPratik",
+      "ContentRoot": "/Users/ismailsimsek/Projects/WebPratik/wwwroot/",
+      "BasePath": "_content/WebPratik",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
